@@ -24,7 +24,7 @@ int Solution(int a,int b,int c);
 
 int main(){
   cout<<"Enter number 1\n";
-  int a,b,c,target;
+  int a,b,target;
   cin>>a;
   cout<<"Enter number 2\n";
   cin>>b;
